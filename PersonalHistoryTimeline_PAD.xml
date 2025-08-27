@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PADFile xmlns="http://www.asp-shareware.org/pad/">
+  <XML_DIZ_INFO>
+    <Company_Info>
+      <Company_Name>Robert Bascom dba parsemonkey</Company_Name>
+      <Company_WebSite_URL>https://parsemonkey.net</Company_WebSite_URL>
+      <Contact_Info>
+        <Contact_First_Name>Robert</Contact_First_Name>
+        <Contact_Last_Name>Bascom</Contact_Last_Name>
+        <Contact_Email>parsemonkey@gmail.com</Contact_Email>
+      </Contact_Info>
+    </Company_Info>
+
+    <Program_Info>
+      <Program_Name>PersonalHistoryTimeline</Program_Name>
+      <Program_Version>1.0.5</Program_Version>
+      <Program_Release_Year>2025</Program_Release_Year>
+      <Program_Release_Month>08</Program_Release_Month>
+      <Program_Release_Day>26</Program_Release_Day>
+      <Program_OS_Support>Linux</Program_OS_Support>
+      <File_Info>
+        <File_Size_K>2,798,592</File_Size_K> <!-- size in KB -->
+        <File_Type>tar.xz</File_Type>
+      </File_Info>
+      <Program_Category_Class>Desktop::Utilities</Program_Category_Class>
+      <Program_License_Type>MIT</Program_License_Type>
+      <Program_Application_URLs>
+        <Application_URLs_Primary_Download_URL>https://https://github.com/parsemonkey/PersonalHistoryTimeline-Downloads/releases/tag/v1.05</Application_URLs_Primary_Download_URL>
+        <Application_URLs_Application_Info_URL>https://https://github.com/parsemonkey/PersonalHistoryTimeline-Downloads/Application_URLs_Application_Info_URL>
+      </Program_Application_URLs>
+    </Program_Info>
+
+    <Program_Descriptions>
+      <English>
+        <Keywords>PersonalHistoryTimeline, AppImage, Linux, Database, Personal History, Journal</Keywords>
+        <Char_Desc_80>A desktop tool to manage and recall a lifetime of memories.</Char_Desc_80>
+        <Char_Desc_250>A user-friendly database app to manage and recall user-defined events and memories with powerful search, batch processing, bulk data loading, duplicate removal features and a scrollable timeline to track events year-to-year. Comes with sample data.</Char_Desc_250>
+      </English>
+    </Program_Descriptions>
+  </XML_DIZ_INFO>
+</PADFile>
+
