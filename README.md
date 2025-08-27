@@ -1,6 +1,6 @@
 # Personal History Timeline - AppImage Distribution
 
-This directory contains the distribution files for the Personal History Timeline application.
+The tar file contains the distribution files for the Personal History Timeline application.
 
 ## About the Application
 
@@ -59,9 +59,9 @@ Refer to `user_guide.md` for detailed instructions on using the application, inc
 
 ## Version Information
 
-- **Version**: Trial v1.0
+- **Version**: Trial v1.05
 - **Architecture**: x86_64
-- **Build Date**: August 30, 2025
+- **Build Date**: August 26, 2025
 - **License**: See application About page for details
 
 ## Support
